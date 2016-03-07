@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'urn:uuid:d8c8ec90-31f8-4522-9e9e-567179f154db'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-07T23:09:10.770Z'
-dateModified: '2016-03-07T23:09:04.903Z'
+description: List
+datePublished: '2016-03-07T23:16:44.172Z'
+dateModified: '2016-03-07T23:15:46.908Z'
 author: []
 title: Critical vs Creative
 sourcePath: _posts/2016-03-07-critical-vs-creative.md
@@ -19,9 +18,10 @@ publisher:
   domain: ''
   url: null
   favicon: null
+url: critical-vs-creative/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
 # Critical vs Creative
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55bbcc71-2249-4a09-82a5-71fb6025183f.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b3615a0962f5673bd2ce27a3f685ad6269157a4.png)
