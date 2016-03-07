@@ -1,0 +1,28 @@
+name: psn
+favicon: null
+layout_spectrum: 0.49382128776051104
+typography_spectrum: 0.6650947481393814
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.23294416861608624
+  lightness: 0.7103811637498438
+  saturation: 0.7094032086897641
+  rhythmicContrast: 0.9977985988371074
+purpose: []
