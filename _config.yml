@@ -1,7 +1,7 @@
-name: psn
+name: Photos
 favicon: null
-layout_spectrum: 0.82291
-typography_spectrum: 0.6650947481393814
+layout_spectrum: 0.23785
+typography_spectrum: 0
 title: Photos
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.23294416861608624
   lightness: 0.7103811637498438
   saturation: 0.7094032086897641
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.25
 purpose: []
