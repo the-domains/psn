@@ -2,6 +2,7 @@ name: psn
 favicon: null
 layout_spectrum: 0.82291
 typography_spectrum: 0.6650947481393814
+title: Photos
 cta:
   domain: null
   bucket: null
