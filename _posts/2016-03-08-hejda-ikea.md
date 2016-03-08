@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:12a54fa5-f15b-48a4-9d48-be191ca9afd8'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-03-08T00:40:59.335Z'
+dateModified: '2016-03-08T00:40:51.354Z'
 author: []
-datePublished: '2016-03-08T00:39:16.891Z'
-publisher:
-  domain: ''
-  name: ''
 title: Hejdå IKEA
-dateModified: '2016-03-08T00:39:03.109Z'
 sourcePath: _posts/2016-03-08-hejda-ikea.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: hejda-ikea/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
