@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: List
-datePublished: '2016-03-08T00:19:32.032Z'
-dateModified: '2016-03-08T00:15:17.708Z'
+datePublished: '2016-03-08T00:33:29.201Z'
+dateModified: '2016-03-08T00:20:20.299Z'
 author: []
 title: Critical vs Creative
 sourcePath: _posts/2016-03-07-critical-vs-creative.md
