@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: List
-datePublished: '2016-03-07T23:36:04.145Z'
-dateModified: '2016-03-07T23:34:34.329Z'
+datePublished: '2016-03-08T00:00:43.337Z'
+dateModified: '2016-03-08T00:00:27.948Z'
 author: []
 title: Critical vs Creative
 sourcePath: _posts/2016-03-07-critical-vs-creative.md
