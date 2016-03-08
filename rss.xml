@@ -4,7 +4,7 @@
         <description><![CDATA[Photos]]></description>
         <link>https://thegrid.ai/psn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 01:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 01:25:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/psn/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cykel]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/psn/hejda-ikea/index.html</link>
             <guid isPermaLink="false">90f4b15d-b4b2-4086-aad6-6303794931f4</guid>
             <pubDate>Tue, 08 Mar 2016 01:01:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dark]]></title>
-            <description><![CDATA[<article><h1>Dark</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a4fc2b793bd900c2f884de361467f86271f0e10.png"></article>]]></description>
-            <link>urn:uuid:70856c30-8d8f-4221-93a9-8e38c0095c56</link>
-            <guid isPermaLink="false">0ff0106f-bf6f-4536-8240-102578f5b39d</guid>
-            <pubDate>Tue, 08 Mar 2016 00:31:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
