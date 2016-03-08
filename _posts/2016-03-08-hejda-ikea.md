@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T00:49:12.758Z'
-dateModified: '2016-03-08T00:46:23.576Z'
+datePublished: '2016-03-08T00:50:17.860Z'
+dateModified: '2016-03-08T00:49:22.337Z'
 author: []
 title: Hejdå IKEA
 sourcePath: _posts/2016-03-08-hejda-ikea.md
